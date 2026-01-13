@@ -60,9 +60,9 @@ Note - the headers have been provided for you above.  No documentation will be r
 ---
 
 ## Testing
-- Write tests to validate the functionality of each method.
+- Write tests to validate the functionality of each method. *You might even come up with a different constructor in order to test different cases.
 - Ensure the methods are tested thoroughly before submission.
-- Evidence of your tests will be a component of your grade. (Show the arrays you tested in your "main" method.)
+- Evidence of your tests will be a component of your grade. (Show evidence of your tests in the main method.)
 - Your class will be graded using a tester program.
 
 ---
